@@ -95,6 +95,20 @@
             "value": "False",
             "varName": "go",
             "varType": 3
+        },
+        {
+            "id": "cbb11964-9ab0-4167-abac-d73740671c2b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "spd",
+            "varType": 0
         }
     ],
     "solid": false,
